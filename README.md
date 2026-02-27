@@ -1,4 +1,4 @@
-# Micromouse Pro - Cybertech 2024 🐭🤖
+# Micromouse Pro - Cybertech 2026 🐭🤖
 
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Arduino/ESP32-blue)
