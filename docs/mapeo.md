@@ -15,6 +15,12 @@ La matriz se inicializa considerando que entre cada celda "caminable" existe una
     * `[#]` (Lleno): Obstáculo físico detectado.
     * `[0]` (Desconocido): Pendiente de exploración.
 
+### Notes
+
+
+![MapNotes](https://github.com/user-attachments/assets/94e3267b-8e86-45b4-a223-bf6bbde086f1)
+
+
 ## Lógica de Desplazamiento
 El robot se desplaza virtualmente de 2 en 2 posiciones en la matriz. Antes de realizar un movimiento físico, el sistema consulta el estado del "muro" situado en la posición intermedia ($n+1$) para verificar si la transición es posible.
 
