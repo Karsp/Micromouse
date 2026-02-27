@@ -1,10 +1,10 @@
-# Micromouse Pro - Cybertech 2026 🐭🤖
+# Micromouse - Cybertech 2026 🐭🤖
 
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Arduino/ESP32-blue)
 
 ## 📌 Introducción
-Este repositorio contiene el sistema de navegación, mapeo y resolución de laberintos para nuestro robot de competición diseñado para la categoría **Cybertech Pro 2024**. 
+Este repositorio contiene el sistema de navegación, mapeo y resolución de laberintos para nuestro robot de competición diseñado para **Cybertech Pro 2026** categoría Micromouse. 
 
 El desafío consiste en navegar de forma autónoma por un laberinto de 8x8 o de 16x16 casillas, identificar el camino óptimo y alcanzar el centro en el menor tiempo posible. Nuestro enfoque se centra en la eficiencia algorítmica y la robustez del control mediante sensores de proximidad.
 
